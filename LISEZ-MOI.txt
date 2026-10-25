@@ -1,0 +1,7 @@
+دفتر الأولى إعدادي - طريقة التثبيت
+1) في GitHub: أنشئ repo جديدا باسم: cahier-1ac (Public).
+2) ارفع كل الملفات الموجودة في هذا المجلد (index.html, manifest.json, sw.js, icon-192.png, icon-512.png, LISEZ-MOI.txt).
+3) Settings > Pages > Source: Deploy from a branch > Branch: main / (root) > Save.
+4) افتح الرابط بعد دقيقتين: https://mohamedrezzoug.github.io/cahier-1ac/
+5) Android: قائمة Chrome (⋮) > "Installer l'application".  iPhone: Safari > Partager > "Sur l'écran d'accueil".
+بعد أول فتح، التطبيق كيخدم حتى بلا أنترنت (ما عدا التعرف على الكلام).
